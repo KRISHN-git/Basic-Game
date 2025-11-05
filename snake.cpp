@@ -3,7 +3,7 @@
 #include <windows.h>
 using namespace std;
 
-#define MAX_LENGTH 300
+#define MAX_LENGTH 800
 
 // Directions
 const char DIR_UP = 'U';
